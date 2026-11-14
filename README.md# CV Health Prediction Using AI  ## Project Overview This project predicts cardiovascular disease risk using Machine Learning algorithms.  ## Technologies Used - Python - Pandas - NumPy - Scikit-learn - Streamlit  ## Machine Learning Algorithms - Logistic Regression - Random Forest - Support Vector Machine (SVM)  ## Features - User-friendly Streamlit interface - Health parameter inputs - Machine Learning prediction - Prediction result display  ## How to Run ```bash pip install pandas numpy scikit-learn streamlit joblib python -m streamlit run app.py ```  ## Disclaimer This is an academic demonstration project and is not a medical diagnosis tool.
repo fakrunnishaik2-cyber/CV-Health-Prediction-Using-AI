@@ -1,0 +1,31 @@
+# CV Health Prediction Using AI
+
+## Project Overview
+This project predicts cardiovascular disease risk using Machine Learning algorithms.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+
+## Machine Learning Algorithms
+- Logistic Regression
+- Random Forest
+- Support Vector Machine (SVM)
+
+## Features
+- User-friendly Streamlit interface
+- Health parameter inputs
+- Machine Learning prediction
+- Prediction result display
+
+## How to Run
+```bash
+pip install pandas numpy scikit-learn streamlit joblib
+python -m streamlit run app.py
+```
+
+## Disclaimer
+This is an academic demonstration project and is not a medical diagnosis tool.
